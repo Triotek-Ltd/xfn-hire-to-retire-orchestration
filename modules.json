@@ -1,0 +1,32 @@
+[
+  {
+    "module_code": "xfn5_2",
+    "module_label": "XFN.5.2 - Employment Lifecycle Tracking",
+    "module_title": "Employment Lifecycle Tracking",
+    "module_slug": "employment_lifecycle_tracking",
+    "app_code": "xfn5",
+    "app_label": "XFN 5 - Hire-to-Retire Orchestration",
+    "bundle_code": "xfn",
+    "source_md_path": "doc/rnd/plugs/xfn/xfn1.md"
+  },
+  {
+    "module_code": "xfn5_3",
+    "module_label": "XFN.5.3 - Offboarding & Retirement Logging",
+    "module_title": "Offboarding & Retirement Logging",
+    "module_slug": "offboarding_and_retirement_logging",
+    "app_code": "xfn5",
+    "app_label": "XFN 5 - Hire-to-Retire Orchestration",
+    "bundle_code": "xfn",
+    "source_md_path": "doc/rnd/plugs/xfn/xfn1.md"
+  },
+  {
+    "module_code": "xfn5_1",
+    "module_label": "XFN.5.1 - Recruitment-to-Onboarding Flow Logging",
+    "module_title": "Recruitment-to-Onboarding Flow Logging",
+    "module_slug": "recruitment_to_onboarding_flow_logging",
+    "app_code": "xfn5",
+    "app_label": "XFN 5 - Hire-to-Retire Orchestration",
+    "bundle_code": "xfn",
+    "source_md_path": "doc/rnd/plugs/xfn/xfn1.md"
+  }
+]
